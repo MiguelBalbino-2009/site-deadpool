@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+h1{
+    background-color: white;    
+    width: 50%;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+    border: 8px solid rgb(156, 6, 6);
+    border-radius: 12px;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+
+
+}
+h3{
+    background-color: white;
+    text-align: center;
+    border: 8px solid rgb(156, 6, 6);
+    border-radius: 12px;
+    width: 50%;
+    height: 40%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    
+   
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border: 10px solid rgb(156, 6, 6);
+    border-radius: 12px;
+}
+.His {
+     background-color: white;
+     border: 5px solid rgb(156, 6, 6);
+     width: 95%;
+     height: 900%;
+
+     
+     margin: 0 auto;
+
+
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.Curiosidades{
+     background-color: white;
+     border: 5px solid rgb(156, 6, 6);
+     width: 95%;
+     height: 900%;
+
+     
+     margin: 0 auto;
+}
+.Hab{
+     background-color: white;
+     border: 5px solid rgb(156, 6, 6);
+     width: 95%;
+     height: 900%;
+
+     
+     margin: 0 auto;
+}
+li{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
